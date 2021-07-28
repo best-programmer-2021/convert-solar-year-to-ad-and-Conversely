@@ -1,0 +1,9 @@
+welcome 
+
+hello 
+
+this program convert the solar years to ad and ad to solar years
+work with this program its very easy 
+you first choose the operation and press enter
+and second choose date and press enter 
+good luck
